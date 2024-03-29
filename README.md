@@ -1,0 +1,2 @@
+# AmoogusCrawler
+Crawler for Amoogus
